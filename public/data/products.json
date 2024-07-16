@@ -1,0 +1,97 @@
+[{
+  "vehicle_id": 1,
+  "owner_id": 1,
+  "category": "Car",
+  "price_per_day": 50,
+  "availability_status": "available",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/122561/toyota-camry-right-front-three-quarter6.jpeg?isig=0&wm=1&q=80",
+  "brand": "Toyota",
+  "model": "Camry",
+  "year": 2020,
+  "description": "A reliable and fuel-efficient mid-size sedan with comfortable seating for five and advanced safety features."
+},
+{
+  "vehicle_id": 2,
+  "owner_id": 2,
+  "category": "Bike",
+  "price_per_day": 15,
+  "availability_status": "unavailable",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2023/11/358056736/AV/LZ/NR/201347277/new-yamahass-yzf-r3-motorcycle-500x500.jpg",
+  "brand": "Yamaha",
+  "model": "YZF-R3",
+  "year": 2019,
+  "description": "A lightweight sport bike with a powerful engine and agile handling, perfect for both beginners and experienced riders."
+},
+{
+  "vehicle_id": 3,
+  "owner_id": 1,
+  "category": "Car",
+  "price_per_day": 70,
+  "availability_status": "available",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyqyOX1U9GLl4ciE8pkPbaqAitEmiWTIuIA&s",
+  "brand": "Honda",
+  "model": "Civic",
+  "year": 2021,
+  "description": "A popular compact car known for its fuel efficiency, reliability, and modern design. Ideal for city driving and long trips."
+},
+{
+  "vehicle_id": 4,
+  "owner_id": 2,
+  "category": "Bike",
+  "price_per_day": 20,
+  "availability_status": "available",
+  "image": "https://images.carandbike.com/bike-images/colors/ducati/monster-821/ducati-monster-821-ducati-red.png?v=1578656239",
+  "brand": "Ducati",
+  "model": "Monster 821",
+  "year": 2022,
+  "description": "A high-performance bike with a sleek design and powerful engine, offering an exhilarating riding experience."
+},
+{
+  "vehicle_id": 5,
+  "owner_id": 1,
+  "category": "Car",
+  "price_per_day": 60,
+  "availability_status": "unavailable",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB1YNdqEj9jTTGOwuHFpY8GUCZHcvnq1RgA&s",
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 2018,
+  "description": "An iconic American muscle car with a powerful V8 engine, aggressive styling, and a thrilling driving experience."
+},
+{
+  "vehicle_id": 6,
+  "owner_id": 2,
+  "category": "Bike",
+  "price_per_day": 25,
+  "availability_status": "available",
+  "image": "https://bd.gaadicdn.com/processedimages/harley-davidson/harley-davidson-sportster/494X300/harley-davidson-sportster6368dec1a6a19.jpg?imwidth=412&impolicy=resize",
+  "brand": "Harley-Davidson",
+  "model": "Iron 883",
+  "year": 2020,
+  "description": "A classic cruiser bike with a bold design, comfortable ride, and the iconic Harley-Davidson rumble."
+},
+{
+  "vehicle_id": 7,
+  "owner_id": 1,
+  "category": "Car",
+  "price_per_day": 80,
+  "availability_status": "available",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/37067/3-series-exterior-left-front-three-quarter-3.jpeg?q=80",
+  "brand": "BMW",
+  "model": "3 Series",
+  "year": 2019,
+  "description": "A luxury sports sedan offering a perfect blend of performance, comfort, and advanced technology."
+},
+{
+  "vehicle_id": 8,
+  "owner_id": 2,
+  "category": "Bike",
+  "price_per_day": 18,
+  "availability_status": "unavailable",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvT3ovTYdxZEqt9WVSWNxVHZlqcGePKTrMw&s",
+  "brand": "Kawasaki",
+  "model": "Ninja 400",
+  "year": 2021,
+  "description": "A versatile sport bike with a nimble chassis and responsive engine, perfect for both city commutes and weekend rides."
+}
+]
